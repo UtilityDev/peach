@@ -2,6 +2,13 @@
 
 A CLI tool for setting up programming projects
 
+## Requirements
+Peach relies on a python package known as "colorama" to display text with colors.\
+Install it with `pip install colorama`
+
+**OPTIONAL:** If you're on Windows, I highly recommend the Windows Terminal, because it can display unicode and emoticons properly.
+https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=nb-no&gl=no
+
 ## Commands
 `-c` or `create` followed with any of the supported programming languages to create a project. 😎\
 *Example: `py peach.py -c python`*
