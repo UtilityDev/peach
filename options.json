@@ -1,0 +1,50 @@
+
+
+{
+    "languages": [
+        {
+            "name": "Lua",
+            "extension": "lua"
+        },
+        {
+            "name": "Python",
+            "extension": "py"
+        },
+        {
+            "name": "C++",
+            "extension": "cpp"
+        },
+        {
+            "name": "Haskell",
+            "extension": "hs"
+        },
+        {
+            "name": "Kotlin",
+            "extension": "kt"
+        },
+        {
+            "name": "Java",
+            "extension": "java"
+        },
+        {
+            "name": "Ruby",
+            "extension": "rb"
+        },
+        {
+            "name": "F#",
+            "extension": "fs"
+        },
+        {
+            "name": "Rust",
+            "extension": "rs"
+        },
+        {
+            "name": "C#",
+            "extension": "cs"
+        },
+        {
+            "name": "C",
+            "extension": "c"
+        }
+    ]
+}
