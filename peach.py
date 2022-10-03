@@ -1,7 +1,7 @@
 import json
 import sys
 import os
-import argparse
+import boilerplate
 from colorama import Fore, Back, Style, colorama_text
 from random_emoticon import get_emoticon
 
