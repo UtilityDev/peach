@@ -89,7 +89,12 @@ def main():
                 try:
                     folder_name = str(input('Project name: '))
                     folder_loc = str(input("Where do you want to place your project? (full path): "))
-                    create_environment(folder_name, folder_loc, chosen_language)
+
+                    # checking if we actually entered in a name or not
+                    if folder_name != '':
+                        create_environment(folder_name, folder_loc, chosen_language)
+                    else:
+                        throw_err('project name cannot be empty!')
                 except KeyboardInterrupt:
                     print('\n')
                     throw_err('interrupted!!')
