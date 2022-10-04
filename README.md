@@ -4,7 +4,8 @@ A CLI tool for setting up programming projects
 
 ## Commands
 `-c` or `create` followed with any of the supported programming languages to create a project. 😎\
-*Example: `py peach.py -c python`*
+You can also use the `--use-git` flag to generate git boilerplate like `README.md` and `.gitignore`\
+*Example: `py peach.py -c python --use-git`*
 
 ## Supported languages
 `Lua`, `Python`, `C++`, `C#`, `F#`, `Haskell`, `Kotlin`, `Java`, `Ruby`, `Rust`, `C`\
