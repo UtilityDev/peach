@@ -7,13 +7,7 @@ from random_emoticon import get_emoticon
 # syntax for creating environment
 create_syntax = ['create', '-c']
 
-<<<<<<< HEAD
-# expected number of arguments
-expected_args = 3
-=======
-# expected number of arguments1
 expected_args = 4
->>>>>>> develop
 
 languages = []
 
