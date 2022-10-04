@@ -1,5 +1,0 @@
-package com.user.example
-
-public static void main(String[] args) {
-    
-}
